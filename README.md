@@ -136,21 +136,6 @@ V1.0/
 - VPN usage recommended for better performance
 - Keep your license key secure and private
 
-## 🛠️ System Requirements
-
-- **OS**: Windows 10/11 (recommended)
-- **RAM**: 4GB minimum, 8GB recommended
-- **Storage**: 100MB free space
-- **Network**: Stable internet connection
-- **Runtime**: No additional runtime required (standalone executable)
-
-## 📞 Support
-
-For support and updates:
-- Developer: @zyex1z
-- Check application logs for troubleshooting
-- Ensure all dependencies are properly installed
-
 ## 📄 License
 
 This software is proprietary and requires a valid license key for operation. Unauthorized use is prohibited.
