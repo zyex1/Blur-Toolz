@@ -94,12 +94,7 @@ V1.0/
 ├── Acc G3n.exe         # Main application executable
 ├── config.json         # Configuration settings
 ├── tokens.txt          # Token storage file
-├── img/                # Screenshots and images
-│   ├── download.jpg    # Application logo
-│   ├── main tool.png   # Main tool selection screen
-│   ├── Token Check.png # Token checker interface
-│   └── Token Gen.png   # Account generator interface
-└── README.md           # This file
+└── Data/         # This file
 ```
 
 ## 🔐 Security Features
