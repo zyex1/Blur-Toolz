@@ -40,13 +40,13 @@ Blur Toolz is a comprehensive Discord account management application developed b
 ## 🖼️ Screenshots
 
 ### Main Tool Selection
-![Tool Selection](img/tool-selection.png)
+![Tool Selection](img/main%20tool.png)
 
 ### Token Checker Interface
-![Token Checker](img/token-checker.png)
+![Token Checker](img/Token%20Check.png)
 
 ### Account Generator
-![Account Generator](img/account-generator.png)
+![Account Generator](img/Token%20Gen.png)
 
 ## 🚀 Installation
 
@@ -94,10 +94,11 @@ V1.0/
 ├── Acc G3n.exe         # Main application executable
 ├── config.json         # Configuration settings
 ├── tokens.txt          # Token storage file
-├── data/               # Application assets
-│   ├── pack.ico        # Application icon
-│   ├── download (2).ico
-│   └── tick.svg        # Success indicator
+├── img/                # Screenshots and images
+│   ├── download.jpg    # Application logo
+│   ├── main tool.png   # Main tool selection screen
+│   ├── Token Check.png # Token checker interface
+│   └── Token Gen.png   # Account generator interface
 └── README.md           # This file
 ```
 
