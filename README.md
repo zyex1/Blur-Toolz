@@ -1,7 +1,7 @@
 # Blur Toolz - Discord Account Manager
 
 <div align="center">
-  <img src="data/pack.ico" alt="Blur Toolz Logo" width="64" height="64">
+  <img src="img/download.jpg" alt="Blur Toolz Logo" width="64" height="64">
   
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
   [![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green.svg)](https://pypi.org/project/PyQt6/)
@@ -40,33 +40,28 @@ Blur Toolz is a comprehensive Discord account management application developed b
 ## 🖼️ Screenshots
 
 ### Main Tool Selection
-![Tool Selection](https://via.placeholder.com/600x400/2b2b2b/ffffff?text=Select+Tool+Interface)
+![Tool Selection](img/tool-selection.png)
 
 ### Token Checker Interface
-![Token Checker](https://via.placeholder.com/600x400/2b2b2b/ffffff?text=Token+Checker+Interface)
+![Token Checker](img/token-checker.png)
 
 ### Account Generator
-![Account Generator](https://via.placeholder.com/600x400/2b2b2b/ffffff?text=Account+Generator+Interface)
+![Account Generator](img/account-generator.png)
 
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.8 or higher
-- Windows OS (recommended)
+- Windows OS (Windows 10/11 recommended)
 - Internet connection
-
-### Dependencies
-```bash
-pip install PyQt6 pymongo requests httpx zendriver notifypy psutil
-```
+- No additional dependencies required (all libraries bundled)
 
 ### Setup
-1. Clone or download the repository
-2. Install required dependencies
+1. Download the latest release
+2. Extract the files to your desired location
 3. Configure `config.json` with your settings
 4. Run the application:
-```bash
-python gui.py
+```
+Acc G3n.exe
 ```
 
 ## ⚙️ Configuration
@@ -96,7 +91,7 @@ The `config.json` file contains important settings:
 
 ```
 V1.0/
-├── gui.py              # Main application file
+├── Acc G3n.exe         # Main application executable
 ├── config.json         # Configuration settings
 ├── tokens.txt          # Token storage file
 ├── data/               # Application assets
@@ -117,7 +112,7 @@ V1.0/
 ## 💡 Usage
 
 ### Token Checking
-1. Launch the application
+1. Launch `Acc G3n.exe`
 2. Select "Account Checker" from the tool selection
 3. Enter Discord tokens (one per line or single token)
 4. Click "Check Token" or "Check All Tokens"
@@ -125,12 +120,13 @@ V1.0/
 6. Optionally enable auto-removal of invalid tokens
 
 ### Account Generation
-1. Select "Account Generator" from the main menu
-2. Configure generation settings
-3. Enter the number of accounts to generate
-4. Enable rate limiting and notifications as needed
-5. Click "Start Generation"
-6. Monitor progress through application logs
+1. Launch `Acc G3n.exe`
+2. Select "Account Generator" from the main menu
+3. Configure generation settings
+4. Enter the number of accounts to generate
+5. Enable rate limiting and notifications as needed
+6. Click "Start Generation"
+7. Monitor progress through application logs
 
 ## ⚠️ Important Notes
 
@@ -146,7 +142,7 @@ V1.0/
 - **RAM**: 4GB minimum, 8GB recommended
 - **Storage**: 100MB free space
 - **Network**: Stable internet connection
-- **Python**: 3.8+ with pip
+- **Runtime**: No additional runtime required (standalone executable)
 
 ## 📞 Support
 
